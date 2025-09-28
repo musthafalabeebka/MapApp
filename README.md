@@ -1,2 +1,2 @@
 # MapApp
-A map integrated to a app in iOS through swiftUI
+A map integrated to an app in iOS through swiftUI
