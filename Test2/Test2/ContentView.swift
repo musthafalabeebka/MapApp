@@ -18,6 +18,8 @@ struct ContentView: View {
 
     var body: some View {
         VStack {
+            Text("Map App")
+                .font(.largeTitle)
             Map(position: $position) {
                 Marker("Kakkanad", coordinate: CLLocationCoordinate2D(latitude: 10.0159, longitude: 76.3419))
             }
